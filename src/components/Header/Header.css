@@ -2,7 +2,7 @@
 
 
 .header {
-    text-align: center;
+    
     font-family: 'Nanum Gothic', sans-serif;
 }
 .logo{
@@ -21,4 +21,20 @@
     font-weight: 400;
     font-size: 40px;
     color: #545353;
+}
+.header-text{
+   background-image: url('../../images/background\ of\ audi\ car\ lovers\ fit.jpg');
+   background-size: cover;
+   color:white; 
+   padding-top: 80px;
+   padding-bottom: 450px;
+    
+}
+.header-text h3{
+    font-weight:bold;
+    
+}
+.header-text h1{
+    font-weight: 400;
+    color:white;
 }
